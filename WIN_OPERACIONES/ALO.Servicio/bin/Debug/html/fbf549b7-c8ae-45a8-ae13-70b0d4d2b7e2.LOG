@@ -1,0 +1,70 @@
+﻿<div class="table-responsive">
+  <table>
+    <tr>
+      <td>
+        <h2>INFORMES DE APLICACIÓN</h2>
+      </td>
+    </tr>
+    <tr>
+      <td>Se excedió el tiempo de espera de la operación</td>
+    </tr>
+    <tr>
+      <td>
+        <IMG id="IMG_MostrarError" SRC="/IMAGES/ques.png" ALT="Mostrar Detalles" onClick="MostrarThrow();">
+        <IMG id="IMG_OcultarError" SRC="/IMAGES/OK.png" ALT="Ocultar Detalles" onClick="OcultarThrow();" style="display: none;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div id="OcultoThrowError" style="display: none;">
+          <table>
+            <tr>
+              <td>
+                    Nombre Metodo
+                  </td>
+              <td>:</td>
+              <td>GetRequestStream<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Clase
+                  </td>
+              <td>:</td>
+              <td>System.Net.HttpWebRequest<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    NameSpace
+                  </td>
+              <td>:</td>
+              <td>System.Net<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Mensaje
+                  </td>
+              <td>:</td>
+              <td>Se excedió el tiempo de espera de la operación<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Secuencia
+                  </td>
+              <td>:</td>
+              <td>
+                <ul>
+                  <li>P_TIMER_1</li>
+                  <li>LEER_PID_FIND</li>
+                  <li>SP_READ_PID_X_ENCONTRAR</li>
+                  <li>SolicitarPost</li>
+                  <li>GetRequestStream</li>
+                  <li>GetRequestStream</li>
+                </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>

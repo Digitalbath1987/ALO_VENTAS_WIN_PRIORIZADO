@@ -1,0 +1,8 @@
+10.0
+6
+1       SQLCHAR             0       12      "|"      1     ID                     ""
+2       SQLCHAR             0       12      "|"      2     USUARIO                ""
+3       SQLCHAR             0       12      "|"      3     IDLOTE                 ""
+4       SQLCHAR             0       255     "|"      4     IDCLIENTE              Modern_Spanish_CI_AS
+5       SQLCHAR             0       255     "|"      5     NOMBRE                 Modern_Spanish_CI_AS
+6       SQLCHAR             0       255     "\r\n"   6     FONO                   Modern_Spanish_CI_AS

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<CONFIGURACIONES>
+    <add key="SERVIDOR"  		value="192.9.200.61" />
+    <add key="USUARIO"   		value="mituser" />
+    <add key="PASSWORD"  		value="mitcall" />
+</CONFIGURACIONES>

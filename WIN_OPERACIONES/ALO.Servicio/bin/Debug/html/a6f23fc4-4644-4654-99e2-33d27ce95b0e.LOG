@@ -1,0 +1,66 @@
+﻿<div class="table-responsive">
+  <table>
+    <tr>
+      <td>
+        <h2>INFORMES DE APLICACIÓN</h2>
+      </td>
+    </tr>
+    <tr>
+      <td>Referencia a objeto no establecida como instancia de un objeto.</td>
+    </tr>
+    <tr>
+      <td>
+        <IMG id="IMG_MostrarError" SRC="/IMAGES/ques.png" ALT="Mostrar Detalles" onClick="MostrarThrow();">
+        <IMG id="IMG_OcultarError" SRC="/IMAGES/OK.png" ALT="Ocultar Detalles" onClick="OcultarThrow();" style="display: none;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div id="OcultoThrowError" style="display: none;">
+          <table>
+            <tr>
+              <td>
+                    Nombre Metodo
+                  </td>
+              <td>:</td>
+              <td>ServiceNamePath<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Clase
+                  </td>
+              <td>:</td>
+              <td>ALO.Servicio.Main<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    NameSpace
+                  </td>
+              <td>:</td>
+              <td>ALO.Servicio<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Mensaje
+                  </td>
+              <td>:</td>
+              <td>Referencia a objeto no establecida como instancia de un objeto.<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Secuencia
+                  </td>
+              <td>:</td>
+              <td>
+                <ul>
+                  <li>P_TIMER_1</li>
+                  <li>ServiceNamePath</li>
+                </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>

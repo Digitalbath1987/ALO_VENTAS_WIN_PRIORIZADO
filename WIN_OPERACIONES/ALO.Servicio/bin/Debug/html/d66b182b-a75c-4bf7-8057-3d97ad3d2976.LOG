@@ -1,0 +1,196 @@
+﻿<div class="table-responsive">
+  <table>
+    <tr>
+      <td>
+        <h2>INFORMES DE APLICACIÓN</h2>
+      </td>
+    </tr>
+    <tr>
+      <td>&lt;div class= table-responsive &gt;
+  &lt;table&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;h2&gt;INFORMES DE APLICACIÓN&lt;/h2&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SP_READ_FTP_IN_X_LLAVE NO EXISTEN METODOS EN SISTEMA ENVIADO&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;IMG id= IMG_MostrarError  SRC= /IMAGES/ques.png  ALT= Mostrar Detalles  onClick= MostrarThrow(); &gt;
+        &lt;IMG id= IMG_OcultarError  SRC= /IMAGES/OK.png  ALT= Ocultar Detalles  onClick= OcultarThrow();  style= display: none; &gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;div id= OcultoThrowError  style= display: none; &gt;
+          &lt;table&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Nombre Metodo
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;CONSTRUCCION_OBJETO&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Clase
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;SRV.RESTFulAlo.Controllers.DBController&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    NameSpace
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;SRV.RESTFulAlo.Controllers&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Mensaje
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;SP_READ_FTP_IN_X_LLAVE NO EXISTEN METODOS EN SISTEMA ENVIADO&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Secuencia
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;
+                &lt;ul&gt;
+                  &lt;li&gt;RF_DB_POST&lt;/li&gt;
+                  &lt;li&gt;CONSTRUCCION_OBJETO&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;</td>
+    </tr>
+    <tr>
+      <td>
+        <IMG id="IMG_MostrarError" SRC="/IMAGES/ques.png" ALT="Mostrar Detalles" onClick="MostrarThrow();">
+        <IMG id="IMG_OcultarError" SRC="/IMAGES/OK.png" ALT="Ocultar Detalles" onClick="OcultarThrow();" style="display: none;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div id="OcultoThrowError" style="display: none;">
+          <table>
+            <tr>
+              <td>
+                    Nombre Metodo
+                  </td>
+              <td>:</td>
+              <td>SP_READ_FTP_IN_X_LLAVE<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Clase
+                  </td>
+              <td>:</td>
+              <td>ALO.Rest.SMetodos<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    NameSpace
+                  </td>
+              <td>:</td>
+              <td>ALO.Rest<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Mensaje
+                  </td>
+              <td>:</td>
+              <td>&lt;div class= table-responsive &gt;
+  &lt;table&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;h2&gt;INFORMES DE APLICACIÓN&lt;/h2&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;SP_READ_FTP_IN_X_LLAVE NO EXISTEN METODOS EN SISTEMA ENVIADO&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;IMG id= IMG_MostrarError  SRC= /IMAGES/ques.png  ALT= Mostrar Detalles  onClick= MostrarThrow(); &gt;
+        &lt;IMG id= IMG_OcultarError  SRC= /IMAGES/OK.png  ALT= Ocultar Detalles  onClick= OcultarThrow();  style= display: none; &gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;div id= OcultoThrowError  style= display: none; &gt;
+          &lt;table&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Nombre Metodo
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;CONSTRUCCION_OBJETO&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Clase
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;SRV.RESTFulAlo.Controllers.DBController&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    NameSpace
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;SRV.RESTFulAlo.Controllers&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Mensaje
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;SP_READ_FTP_IN_X_LLAVE NO EXISTEN METODOS EN SISTEMA ENVIADO&lt;BR&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                    Secuencia
+                  &lt;/td&gt;
+              &lt;td&gt;:&lt;/td&gt;
+              &lt;td&gt;
+                &lt;ul&gt;
+                  &lt;li&gt;RF_DB_POST&lt;/li&gt;
+                  &lt;li&gt;CONSTRUCCION_OBJETO&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/table&gt;
+        &lt;/div&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/div&gt;<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Secuencia
+                  </td>
+              <td>:</td>
+              <td>
+                <ul>
+                  <li>LEER_CONECTOR_FTP</li>
+                  <li>SP_READ_FTP_IN_X_LLAVE</li>
+                </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<CONFIGURACIONES>
+    <!--<add key="SERVIDOR"  		value="192.9.200.60" />
+    <add key="USUARIO"   		value="sa" />
+    <add key="PASSWORD"  		value="ibrchil3.," />-->
+  <add key="SERVIDOR"  		value="192.168.202.40" />
+  <add key="USUARIO"   		value="admin_alo" />
+  <add key="PASSWORD"  		value="$Alo2020" />
+</CONFIGURACIONES>

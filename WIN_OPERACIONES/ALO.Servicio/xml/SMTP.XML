@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<CONFIGURACIONES>
+    <add key="HOST"             value="mail.ibrchile.cl" />
+    <add key="PUERTO"           value="25" />
+	  <add key="CORREO_FROM"      value="informes@ibrlatam.com" />
+	  <add key="USA_CREDENCIALES" value="1" />
+	  <add key="USA_SSL"          value="0" />
+    <add key="USUARIO"          value="informes@ibrlatam.com" />
+    <add key="PASSWORD"         value="$Info.ibr2018" />
+</CONFIGURACIONES>

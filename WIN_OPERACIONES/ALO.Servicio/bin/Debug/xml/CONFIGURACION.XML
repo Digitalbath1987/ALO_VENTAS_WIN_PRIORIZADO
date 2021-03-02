@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<CONFIGURACIONES>
+    <add key="SERVICIO"			    value="http://172.20.1.150:9102/ServicioRestAlo.svc" />
+    <add key="MENSAJE"			    value="http://172.20.1.190:9135/ashx/Notificacion.ashx" />
+    <add key="DESCARGA"			    value="http://172.20.1.190:9109" />
+    <add key="RUTA"   			    value="E:\CRM_ALO_PR\WINSERVICES_PR\ALO_VENTAS_PRIORIZADOS" />
+    <add key="RUTA_TOKEN"   	  value="E:\CRM_ALO_PR\WINSERVICES_PR\ALO_FILE_V2_PR\TOKEN" />
+    <add key="PS"     			    value="C:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell.exe" />
+    <add key="intervalTime_1"		value="5000" />
+</CONFIGURACIONES>

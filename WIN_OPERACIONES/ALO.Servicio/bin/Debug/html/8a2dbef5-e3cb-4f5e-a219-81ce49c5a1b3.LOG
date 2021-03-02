@@ -1,0 +1,69 @@
+﻿<div class="table-responsive">
+  <table>
+    <tr>
+      <td>
+        <h2>INFORMES DE APLICACIÓN</h2>
+      </td>
+    </tr>
+    <tr>
+      <td>No es posible conectar con el servidor remoto</td>
+    </tr>
+    <tr>
+      <td>
+        <IMG id="IMG_MostrarError" SRC="/IMAGES/ques.png" ALT="Mostrar Detalles" onClick="MostrarThrow();">
+        <IMG id="IMG_OcultarError" SRC="/IMAGES/OK.png" ALT="Ocultar Detalles" onClick="OcultarThrow();" style="display: none;">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div id="OcultoThrowError" style="display: none;">
+          <table>
+            <tr>
+              <td>
+                    Nombre Metodo
+                  </td>
+              <td>:</td>
+              <td>GetRequestStream<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Clase
+                  </td>
+              <td>:</td>
+              <td>System.Net.HttpWebRequest<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    NameSpace
+                  </td>
+              <td>:</td>
+              <td>System.Net<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Mensaje
+                  </td>
+              <td>:</td>
+              <td>No es posible conectar con el servidor remoto<BR></td>
+            </tr>
+            <tr>
+              <td>
+                    Secuencia
+                  </td>
+              <td>:</td>
+              <td>
+                <ul>
+                  <li>LEER_CONECTOR_FTP</li>
+                  <li>SP_READ_FTP_X_LLAVE_WIN</li>
+                  <li>SolicitarPost</li>
+                  <li>GetRequestStream</li>
+                  <li>GetRequestStream</li>
+                </ul>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
